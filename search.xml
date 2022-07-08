@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>世界</title>
+      <link href="/myWorld/undefined/shi-jie/"/>
+      <url>/myWorld/undefined/shi-jie/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="冰湖之下"><a href="#冰湖之下" class="headerlink" title="冰湖之下"></a>冰湖之下</h1>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/myWorld/undefined/hello-world/"/>
+      <url>/myWorld/undefined/hello-world/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>Welcome to my world!</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
